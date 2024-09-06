@@ -2,12 +2,13 @@
 **Overview**
 The Dynamic Emoji Reaction Game is an interactive console-based game written in C using the Turbo C graphics library. In this game, users control emojis that display different expressions based on random events. The game provides a fun and visual way to interact with various emoji reactions and is a great example of graphics programming in C.
 
-**Features**
+Features
 Multiple Emoji Expressions: The game features various emoji expressions including normal, wink, sleep, surprise, sad, angry, happy, and crying.
 Randomized Reactions: Emojis change expressions based on random values, ensuring a dynamic gameplay experience.
 Interactive Controls: Players can view different emoji expressions and their corresponding controls.
-**Getting Started**
-**Prerequisites**
+
+Getting Started
+Prerequisites
 Turbo C or any compatible C compiler with graphics library support.
 Basic knowledge of C programming and graphics programming.
 Installation
